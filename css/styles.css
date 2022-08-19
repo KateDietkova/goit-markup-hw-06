@@ -455,7 +455,8 @@ img {
 }
 
 .address-container {
-    margin-right: 95px;
+    flex-grow: 1;
+    margin-right: 70px;
 }
 
 .logo-footer {
